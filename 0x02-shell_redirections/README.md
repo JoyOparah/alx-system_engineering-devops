@@ -1,1 +1,1 @@
-shell permission command
+write a script that prints "Hello, World"
