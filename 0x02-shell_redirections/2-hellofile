@@ -1,2 +1,2 @@
-echo '#!/bin/bash' > 2-hellofile
-echo 'cat /etc/passwwrd /etc/hosts' >> 3-twofiles
+#!/bin/bash
+cat /etc/passwrd
